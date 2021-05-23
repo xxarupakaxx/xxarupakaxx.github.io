@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## アルパカのブログ
+こんにちは～
+ブログをはじめました。最初に自己紹介を見てもらえると嬉しいです。
 
 <ul>
   {% for post in site.posts %}
