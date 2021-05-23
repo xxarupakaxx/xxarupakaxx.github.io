@@ -1,1 +1,6 @@
 theme: jekyll-theme-time-machine
+encding: utf-8
+plugins: 
+  - jekyll-github-metadata
+github : [metadata]
+repository: xxarupakaxx/github.io
