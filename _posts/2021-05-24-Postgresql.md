@@ -49,7 +49,7 @@ sudo service postgresql start
 うまくいったあと
 ```
 createuser --interactive
-createdb xxarupakaxx
+createdb 自分のアカウント名
 ```
 を打ち無事データベースの作成完了です。
 
