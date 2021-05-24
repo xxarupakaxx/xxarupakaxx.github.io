@@ -1,11 +1,11 @@
 ---
 title: PostgreSQL
-date: 2021-05-23
+date: 2021-05-24
 author: xxarupakaxx
 layout: default
 description: PostgreSQLをインストールした際につまづいた
 categories:
-    - info
+    - programming
 tags:
     - PostgreSQL
     - GO
