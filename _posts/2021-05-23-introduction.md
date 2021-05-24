@@ -14,5 +14,5 @@ tags:
 # info 
 ##  Introduction
 xxarupakaxxです
-
+最近はGO言語を勉強しています。
 
