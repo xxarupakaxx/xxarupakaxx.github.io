@@ -39,7 +39,7 @@ psql: error: could not connect to server: No such file or directory
         Is the server running locally and accepting
         connections on Unix domain socket "/var/run/postgresql/.s.PGSQL.5432"?     
 ```
-とエラーを測れてしまい、なにやらサーバーが稼働していないようです。
+とエラーを吐かれてしまい、なにやらサーバーが稼働していないようです。
 そこで`exit`をし、次のコマンドを入力します
 ```
 sudo service postgresql start
