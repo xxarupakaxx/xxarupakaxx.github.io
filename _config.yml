@@ -4,3 +4,4 @@ plugins:
   - jekyll-github-metadata
 github : [metadata]
 repository: xxarupakaxx/github.io
+url: "https://xxarupakaxx.github.io"
