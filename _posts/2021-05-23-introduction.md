@@ -29,6 +29,6 @@ xxarupakaxx です.東京工業大学の traP というサークルでプログ�
 
 Twitter- [@GameArupaka](https://twitter.com/GameArupaka)
 
-Github -[@xxarupakaxx](https://github.com/xxarupakaxx)
+Github -[xxarupakaxx](https://github.com/xxarupakaxx)
 
 Email - arupaka3.tdigks@gmail.com
