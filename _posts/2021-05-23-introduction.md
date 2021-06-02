@@ -32,3 +32,7 @@ Twitter- [@GameArupaka](https://twitter.com/GameArupaka)
 Github -[xxarupakaxx](https://github.com/xxarupakaxx)
 
 Email - arupaka3.tdigks@gmail.com
+## その他
+こちらで不定期にブログを更新しています
+
+https://xxarupakaxx.github.io/
