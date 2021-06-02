@@ -1,18 +1,20 @@
 ---
-title: 自己紹介
+title: ポートフォリオ
 date: 2021-05-23
 author: xxarupakaxx
 layout: default
 description:
 categories:
-    - info
+  - info
 tags:
-    - Jekyll
-    - Github
-    - traP
+  - Jekyll
+  - Github
+  - traP
 ---
-# info 
-##  Introduction
-xxarupakaxxです
-最近はGO言語を勉強しています。
 
+# info
+
+## Introduction
+
+xxarupakaxx です
+最近は GO 言語を勉強しています。
