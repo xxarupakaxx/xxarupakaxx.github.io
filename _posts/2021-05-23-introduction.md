@@ -18,3 +18,11 @@ tags:
 
 xxarupakaxx です
 最近は GO 言語を勉強しています。
+
+## Contact
+
+Twitter- [@GameArupaka](https://twitter.com/GameArupaka)
+
+Github -[@xxarupakaxx](https://github.com/xxarupakaxx)
+
+Email - arupaka3.tdigks@gmail.com
