@@ -16,8 +16,13 @@ tags:
 
 ## Introduction
 
-xxarupakaxx です
-最近は GO 言語を勉強しています。
+xxarupakaxx です.東京工業大学の traP というサークルでプログラミングをしています。Unity でゲーム制作や、ドット絵を描いたりしています。最近ではサーバエンドに興味を持ち Go 言語を勉強しています。
+
+## 使える言語
+
+- C#
+- C++
+- Go
 
 ## Contact
 
