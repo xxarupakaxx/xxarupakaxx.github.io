@@ -20,7 +20,11 @@ tags:
 
 xxarupakaxx です.東京工業大学の traP というサークルで [SysAd 班](https://trap.jp/sysad/)のリーダーをやらせていただいております.
 
-Unity でゲーム制作や、ドット絵を描いたりしています。最近ではサーバエンドに興味を持ち Go 言語を勉強しています。
+Unity でのゲーム制作そして UniRx が使えます
+
+また Go 言語で API サーバーの構築,gRPC サーバーの構築等経験
+
+traP で anke-to という部内アンケートアプリのサーバーを担当、NeoShocase という PasS のサーバーを担当しています
 
 ## 使える言語
 
@@ -43,7 +47,7 @@ Twitter- [@GameArupaka](https://twitter.com/GameArupaka)
 
 Github -[xxarupakaxx](https://github.com/xxarupakaxx)
 
-Email - arupaka3tdigks@gmail.com
+Email - moririn.hys03@gmail.com
 
 ## その他
 
